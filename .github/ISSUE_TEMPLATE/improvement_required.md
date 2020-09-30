@@ -13,7 +13,7 @@ A clear and concise description of what the problem is.
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
-**Describe how it'll improve the project performance"
+**Describe how it'll improve the project performance**
 A clear description of how it improves the project
 
 **Additional context**
