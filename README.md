@@ -17,8 +17,12 @@ Deepfakes are synthetic media in which a person in an existing image or video is
 2. Code
 3. Suggestions
 
-## Proposed techniques to be used:
-1. 
+## Technologies to be used:
+1. Python
+2. Machine Learning
+3. Deep learning
+4. Docker
+5. AWS
 
 # How to contribute to this project?
 
