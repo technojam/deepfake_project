@@ -1,8 +1,3 @@
-# How to contribute to this project?
-
-In order to contribute to this repository, you can drop your suggestions,links,code etc. in the file 'suggestions.md' in suggestions folder, regarding other techniques or improvements you think can help this project achieve it's goal.
-You can also contribute to improve or increase the dataset.
-
 # Deepfake Project
 
 This repo contains files for Deepfake Detection Project
@@ -24,3 +19,9 @@ Deepfakes are synthetic media in which a person in an existing image or video is
 
 ## Proposed techniques to be used:
 1. 
+
+# How to contribute to this project?
+
+In order to contribute to this repository, you can drop your suggestions,links,code etc. in the file 'suggestions.md' in suggestions folder, regarding other techniques or improvements you think can help this project achieve it's goal.
+
+You can also contribute to improve or increase the dataset. We're collecting deepfakes/manipulated/faceswapped images and their real counterpart images. In order to contribute to dataset, you can add your images to the dataset/images.
